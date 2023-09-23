@@ -1,6 +1,6 @@
 # VX Tool 🦂
 
-<img src="config/github/logo.jpg" alt="logo" width="100px" height="150px">
+<img src="config/github/logo.jpg" alt="logo" width="200px" height="170px">
 
 
 ### Description
