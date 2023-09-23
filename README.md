@@ -23,10 +23,10 @@ sudo apt update -y
 sudo apt upgrade -y
 sudo apt install git python -y
 git clone https://github.com/Bad-Boy2p/VXTool-
-cd VXTool
+cd VXTool-
 chmod +x setup.sh main.py
-bash setup.sh
-python3 main.py
+sudo bash setup.sh
+sudo python3 main.py
 ```
 ### Termux
 
@@ -35,7 +35,7 @@ pkg update -y
 pkg upgrade -y
 pkg install git python -y
 git clone https://github.com/Bad-Boy2p/VXTool-
-cd VXTool
+cd VXTool-
 chmod +x setup.sh main.py
 bash setup.sh
 python3 setup.sh
