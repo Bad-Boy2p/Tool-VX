@@ -1,6 +1,6 @@
 # VX Tool 🦂
 
-<img src="config/github/logo.png" alt="logo" width="100px" height="150px">
+<img src="config/github/logo.jpg" alt="logo" width="100px" height="150px">
 
 
 ### Description
@@ -22,7 +22,7 @@ a powerful and effective tool to download the most famous penetration testing to
 sudo apt update -y
 sudo apt upgrade -y
 sudo apt install git python -y
-git clone
+git clone https://github.com/Bad-Boy2p/VXTool-
 cd VXTool
 chmod +x setup.sh main.py
 bash setup.sh
@@ -34,7 +34,7 @@ python3 main.py
 pkg update -y
 pkg upgrade -y
 pkg install git python -y
-git clone
+git clone https://github.com/Bad-Boy2p/VXTool-
 cd VXTool
 chmod +x setup.sh main.py
 bash setup.sh
