@@ -454,7 +454,7 @@ def router() :
 def cam() :
 	cam_pwd = pwd + "CamHacker"
 	down()
-	osp.system("cd $HOME")
+	os.system("cd $HOME")
 	os.system("sudo apt update -y && sudo apt upgrade -y")
 	os.system("sudo apt install git - y")
 	os.system("git clone https://github.com/KasRoudra/CamHacker")
