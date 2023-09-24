@@ -1,6 +1,6 @@
 # VX Tool 🦂
 
-<img src="config/github/logo.jpg" alt="logo" width="200px" height="170px">
+<img src="config/github/logo.jpg" alt="logo" width="300px" height="200px">
 
 
 ### Description
@@ -43,7 +43,7 @@ python3 setup.sh
 # How to use ?
 
 + Screenshot 📸
- <img src="config/github/screenshot.png" alt="Screenshot" width="100px" height="150px">
+ <img src="config/github/Screenshot.png" alt="Screenshot" width="300px" height="300px">
 
 #### Choose from the selection list
 
