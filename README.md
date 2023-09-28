@@ -38,7 +38,7 @@ git clone https://github.com/Bad-Boy2p/VXTool
 cd VXTool
 chmod +x setup.sh main.py
 bash setup.sh
-python3 setup.sh
+python3 main.py
 ```
 # How to use ?
 
