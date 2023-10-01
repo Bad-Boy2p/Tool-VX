@@ -51,6 +51,7 @@ if system == "Termux" :
 	exec(open(os.getcwd() + "/config/files/connection_github.py").read())
 	sleep(3)
 	print(f"{success} your opiration system is {yellow}{system}")
+	sleep(2)
 	exec(open(os.getcwd() + "/config/system/toolvx_termux.py").read())
 	print(f"{info} downloading termux mudoles")
 if system == "Kali Linux" :
@@ -58,6 +59,7 @@ if system == "Kali Linux" :
 	exec(open(os.getcwd() + "/config/files/connection_github.py").read())
 	sleep(3)
 	print(f"{success} your opiration system is {yellow}{system}")
+	sleep(2)
 	exec(open(os.getcwd() + "/config/system/toolvx_linux.py").read())
 	
 
